@@ -1,3 +1,6 @@
+# @Warillon (github.com)
+# 08/2024
+
 import os
 import random
 
